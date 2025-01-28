@@ -15,5 +15,3 @@ const secondLargest = (...arr) => {
 };
 
 let ans = secondLargest(1, 2, 3, 4, 5, 6, 40, 40, 7, 7);
-
-console.log(ans);
